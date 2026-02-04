@@ -33,4 +33,4 @@ if __name__ == "__main__":
 
     # Call function and print result
     result = maxPathSum(root)
-    print("Maximum Path Sum:", result)
+    print("Maximum Path Sum:", resul
