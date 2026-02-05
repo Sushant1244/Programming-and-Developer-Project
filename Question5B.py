@@ -4,4 +4,4 @@ Add implementations here as needed by the exercise.
 """
 
 def placeholder():
-    return None
+    return "Placeholder function for Question 5B. Implement as needed."
