@@ -54,7 +54,7 @@ def build_gui(fetch_callback=None):
 
 def _cli_demo(fetch_callback=None):
     # Run a headless demo that prints results
-    cities = ["London", "Paris", "Tokyo"]
+    cities = ["Kathmandu", "Janakpur", "Butwal"]
     results = {}
     lock = threading.Lock()
     threads = []
